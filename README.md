@@ -1,3 +1,7 @@
+
+# what-the-weather
+This app tells weather of a city using OpenWeather API. Here I used ReactJS , HTML and CSS as technology stack.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
